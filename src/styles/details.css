@@ -1,0 +1,18 @@
+.field {
+    width: 75%;
+	display: flex;
+	flex-direction: column;
+}
+
+.button {
+	margin-top: 1rem;
+    padding: 0.5rem;
+    background-color: rgb(82, 203, 6);
+    color: lightgoldenrodyellow;   
+}
+.label {
+    font-size: 1em;
+}
+ .reservation_row, .completion_row {
+    width: 800px;
+ }
